@@ -56,11 +56,3 @@ ggplot(vendas) +
               fill = "lightgreen", # cor do gráfico
               col = "grey50") +
   labs(title =  "Média de Valor por Estado")
-
-
-
-
-
-
-
-

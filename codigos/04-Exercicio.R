@@ -46,12 +46,3 @@ moda <- function(nota) {
 
 print(moda(notas$TurmaA))
 print(moda(notas$TurmaB))
-
-
-
-
-
-
-
-
-
