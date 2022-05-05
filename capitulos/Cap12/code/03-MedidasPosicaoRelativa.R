@@ -10,7 +10,7 @@ setwd("C:/Users/Administrador/Documents/PowerBI/Cap12") # \ -> /
 getwd()
 
 # Carregando o dataset
-vendas <- read.csv("Vendas.csv", fileEncoding = "windows-1252")
+vendas <- read.csv("data/Vendas.csv", fileEncoding = "windows-1252")
 
 # Resumo dos dados
 head(vendas) # primeiras linhas

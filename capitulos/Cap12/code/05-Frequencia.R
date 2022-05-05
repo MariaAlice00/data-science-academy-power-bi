@@ -8,7 +8,7 @@ setwd("C:/Users/Administrador/Documents/PowerBI/Cap12") # \ -> /
 getwd()
 
 # Carregando os dados
-dados <- read.table("Usuarios.csv",
+dados <- read.table("data/Usuarios.csv",
                     dec = ".",
                     sep = ",",
                     h = T,  # header = true, considerar primeira linha como cabeçalho

@@ -8,7 +8,7 @@ setwd("C:/Users/Administrador/Documents/PowerBI/Cap12") # \ -> /
 getwd()
 
 # Carregando o dataset
-vendas <- read.csv("Vendas.csv", fileEncoding = "windows-1252")
+vendas <- read.csv("data/Vendas.csv", fileEncoding = "windows-1252")
 
 # Resumo do dataset
 View(vendas)
@@ -56,3 +56,11 @@ ggplot(vendas) +
               fill = "lightgreen", # cor do gráfico
               col = "grey50") +
   labs(title =  "Média de Valor por Estado")
+
+
+
+
+
+
+
+

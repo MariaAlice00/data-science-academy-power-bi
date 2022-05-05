@@ -6,7 +6,7 @@ setwd("C:/Users/Administrador/Documents/PowerBI/Cap12")
 getwd()
 
 # Carregando o dataset
-notas <- read.csv("Notas.csv", fileEncoding = "windows-1252")
+notas <- read.csv("data/Notas.csv", fileEncoding = "windows-1252")
 
 # Exercício 1: Apresente um resumo de tipos de dados e estatísticasdo dataset.
 View(notas)
@@ -46,3 +46,12 @@ moda <- function(nota) {
 
 print(moda(notas$TurmaA))
 print(moda(notas$TurmaB))
+
+
+
+
+
+
+
+
+

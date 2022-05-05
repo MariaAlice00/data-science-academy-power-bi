@@ -5,26 +5,30 @@ Projetos feitos durante o curso de Microsoft Power BI Para Data Science - Versã
 ## Alguns projetos feitos durante o curso
 
 ### Cap 02
-![](imagens/cap02.png)
+![](capitulos/Cap02/cap02.png)
 ### Cap 03
-![](imagens/cap03.png)
+![](capitulos/Cap03/cap03.png)
 ### Cap 04
-![](imagens/cap04.png)
+![](capitulos/Cap04/cap04.png)
 ### Cap 05
-![](imagens/cap05.png)
+![](capitulos/Cap05/cap05.png)
 ### Cap 06
-![](imagens/cap06.png)
+![](capitulos/Cap06/cap06.png)
 ### Cap 07-1
-![](imagens/cap07-1.png)
+![](capitulos/Cap07/cap07-1.png)
 ### Cap 07-2
-![](imagens/cap07-2.png)
+![](capitulos/Cap07/cap07-2.png)
 ### Cap 08 v1
-![](imagens/cap08-v1.png)
+![](capitulos/Cap08/cap08-v1.png)
 ### Cap 08 v2
-![](imagens/cap08-v2.png)
+![](capitulos/Cap08/cap08-v2.png)
 ### Cap 09
-![](imagens/cap09.png)
+![](capitulos/Cap09/cap09.png)
 ### Cap 10
-![](imagens/cap10.png)
+![](capitulos/Cap10/cap10.png)
 ### Cap 11
-![](imagens/cap11.png)
+![](capitulos/Cap11/cap11.png)
+### Cap 12
+![](capitulos/Cap12/mini-projeto.png)
+### Cap 13
+![](capitulos/Cap13/mini-projeto.png)
